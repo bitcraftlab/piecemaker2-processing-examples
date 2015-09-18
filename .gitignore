@@ -1,5 +1,6 @@
 secret.pde
 pm2.properties
 *.mp4
+*.json
 *.tmp
 
